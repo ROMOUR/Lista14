@@ -1,0 +1,9 @@
+{
+    "platformName": "Android",
+    "platformVersion": "10.0",
+    "deviceName": "emulator-5554",
+    
+   
+"app": "/path/to/com.google.android.calculator.apk",
+    "automationName": "UiAutomator2"
+}
